@@ -5,6 +5,6 @@ public class sum {
         int b = 3;
 
         int sum = a + b;
-        System.out.println(sum);
+        System.out.println("Addition of two number" + sum);
     }
 }
